@@ -1,7 +1,7 @@
 # CPP_Exsercises
 
 Welcome to the "CPP Exercises" repository! This repository contains a collection of C++ exercises designed to help you practice and improve your C++ programming skills. Each exercise focuses on different aspects of C++ programming, ranging from basics to more advanced topics.
-I wrote my solutions for each exercise in the appropriate folder.
+ I wrote my solutions for each exercise in the appropriate folder.
 
 ## Exercises
 This repository includes a variety of exercises covering different C++ programming concepts. Each exercise is organized in its own directory and includes a README file with detailed instructions. Here's a list of the available exercises:
